@@ -1,0 +1,8 @@
+TOKEN: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTc4NDEyM2MwNTgzNTAwMTg1MjMxOTYiLCJpYXQiOjE3MDIzNzk4MTEsImV4cCI6MTcwMzU4OTQxMX0.hhj8A5eygBpqgsddGE8HzNEHBuLLSCdLt8i4BHEFA8g
+
+USE : 
+fetch("https://striveschool-api.herokuapp.com/api/put-your-endpoint-here/", {
+headers: {
+"Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTc4NDEyM2MwNTgzNTAwMTg1MjMxOTYiLCJpYXQiOjE3MDIzNzk4MTEsImV4cCI6MTcwMzU4OTQxMX0.hhj8A5eygBpqgsddGE8HzNEHBuLLSCdLt8i4BHEFA8g"
+}
+})
